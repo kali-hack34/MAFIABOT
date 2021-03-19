@@ -10,18 +10,25 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIA logo](https://telegra.ph/file/b61486075c6ef73dd0d12.png)](https://t.me/MafiaBot_Support)
+[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
 
 
-# For any query:-
+<details>
+
+  <summary> • FOR ANY QUERY • </summary>
 ### [Join Here For Any Query](https://t.me/MafiaBot_Support)
+
+</details>
+
 
 # FORK AT YOUR OWN RISK
 
-## Installing
+<details>
+
+  <summary> • INSTALLING • </summary>
 
 ### The Easy Way
 
@@ -31,11 +38,19 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P.
 
 <h2 align="center"> <a href="https://github.com/H1M4N5HU0P/MAFIABOT">⚡ 𝙼𝙰𝙵𝙸𝙰 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</a></h2>
 
-# Credits👀
+</details>
+
+<details>
+
+  <summary> • CREDITS👀 • </summary>
 ### • [HellBot](https://github.com/HellBoy-OP/HellBot)
 ## One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
-## The Normal Way
+</details>
+
+<details>
+
+  <summary> • THE NORMAL WAY • </summary>
 
 Simply clone the repository and run the main file:
 ```sh
@@ -62,7 +77,11 @@ class Development(Var):
   API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
 ```
 
-### UniBorg Configuration
+</details>
+
+<details>
+
+  <summary> • UNIBORG CONFIGURATION • </summary>
 
 The UniBorg Config is situated in `userbot/uniborgConfig.py`.
 
@@ -72,7 +91,11 @@ Simply just leave the Config as it is.
 **Local Configuration**
 Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
-## Mandatory Vars
+</details>
+
+<details>
+
+  <summary> • MANDATORY VARS • </summary>
 
 - Only two of the environment variables are mandatory.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
@@ -80,15 +103,18 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
 
+
+</details>
+
 <details>
 
   <summary> • LICENSE • </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 HellBoy-OP
+Copyright (C) 2021 H1M4N5HU0P
 
-Poject [HellBot](https://github.com/HellBoy-OP/HellBot) is free software: you can redistribute it and/or modify
+Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIABOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
