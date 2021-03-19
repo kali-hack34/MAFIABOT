@@ -43,7 +43,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P.
 <details>
 
   <summary> • CREDITS👀 • </summary>
-![HellBot](https://github.com/HellBoy-OP/HellBot)
+<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
